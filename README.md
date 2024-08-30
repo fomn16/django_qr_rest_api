@@ -3,8 +3,12 @@ A Docker image is available at https://hub.docker.com/repository/docker/fomn/dja
 
 In the docker image there are two users already created for testing, each with one already created QR code:
 
+
 username: admin
+
 password: password
 
+
 username: test
+
 password: testpassword
